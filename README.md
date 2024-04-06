@@ -13,7 +13,7 @@ All other wires (if you had to cut yours completely open like me) can be rejoine
 After this, test the cable with a multimeter in continuity mode to insure that the pins on one side are connected to the right pin on the other side. 
 Now you can plug in the extension cable and VCDS cable into your car and computer, turn the key to the ignition position (but do not turn the car on). 
 
-# Reseting the Service Reminder
+# Resetting the Service Reminder
 You can then open up VCDS and select controller 17 - instruments
 A window will pop up where you can click 10 - adaption 
 Another window will pop up, You will need to change the following channels: 
