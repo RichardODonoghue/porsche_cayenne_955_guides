@@ -1,4 +1,4 @@
-# porsche_cayenne_955_VCDS
+# How-TO Guide on Getting VCDS working on your Porsche Cayenne 955
 
 I couldn't find any concrete documentation online around using VCDS (VAGCOM) to reset the service now warning for a 955. I would like to share with you a guide on how to make VCDS work with your car and then reset the service warning. 
 
